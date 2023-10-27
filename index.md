@@ -11,6 +11,9 @@
 let myVar = "Hello, world!";
 ```
 
+- [ ] Check one
+- [ ] Check two
+- [ ] Check three
 
 
 
